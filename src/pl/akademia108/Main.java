@@ -8,6 +8,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         String word = scan.next();
         System.out.println("Kra, kra, " + word + " " + word);
+        System.out.println("Autorem programu jest Aleks");
         scan.close();
     }
 }
